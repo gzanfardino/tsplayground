@@ -1,0 +1,12 @@
+{
+  "name": "tsplayground",
+  "displayName": "tsplayground",
+  "expo": {
+    "name": "tsplayground",
+    "slug": "tsplayground",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
